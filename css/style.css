@@ -1,0 +1,8 @@
+/****** cartao estilo */
+
+.cardStyle{
+    width: 2rem;
+    background-color: #aaa3a3;
+    color: white;
+    border: 1px solid black;
+}
